@@ -1,0 +1,153 @@
+species: Turtwig
+displayname: "Turtwig-S"
+setname: Token
+tags: [starterbattle]
+item: [Muscle Band]
+ability: [Shell Armor]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 68, spA: 0, spD: 144, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Double-Edge]
+    - [Crunch]
+    - [Stockpile]
+gender: [m, f]
+rarity: 1.0
+---
+species: Grotle
+displayname: "Grotle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Calm
+ivs: 31
+evs: {hp: 44, atk: 100, def: 80, spA: 152, spD: 132, spe: 0}
+moves:
+    - [Leaf Storm]
+    - [Body Slam]
+    - [Superpower]
+    - [Leech Seed]
+gender: [m, f]
+rarity: 1.0
+---
+species: Torterra
+displayname: "Torterra-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 68, spA: 252, spD: 144, spe: 0}
+moves:
+    - [Mega Drain]
+    - [Grass Knot]
+    - [Worry Seed]
+    - [Withdraw]
+gender: [m, f]
+rarity: 1.0
+---
+species: Chimchar
+displayname: "Chimchar-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Iron Fist]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+moves:
+    - [Fire Blast]
+    - [Thunder Punch]
+    - [Slack Off]
+    - [Taunt]
+gender: [m, f]
+rarity: 1.0
+---
+species: Monferno
+displayname: "Monferno-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 106, spe: 0}
+moves:
+    - [Close Combat]
+    - [Fire Punch]
+    - [Mach Punch]
+    - [Bulk Up]
+gender: [m, f]
+rarity: 1.0
+---
+species: Infernape
+displayname: "Infernape-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Timid
+ivs: 31
+evs: {hp: 44, atk: 0, def: 80, spA: 252, spD: 80, spe: 52}
+moves:
+    - [Ember]
+    - [Vacuum Wave]
+    - [Fire Spin]
+    - [Mud Slap]
+gender: [m, f]
+rarity: 1.0
+---
+species: Piplup
+displayname: "Piplup-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 96, atk: 0, def: 80, spA: 252, spD: 80, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Blizzard]
+    - [Yawn]
+    - [Aqua ring]
+gender: [m, f]
+rarity: 1.0
+---
+species: Prinplup
+displayname: "Prinplup-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 116, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Dive]
+    - [Drill Peck]
+    - [Facade]
+    - [Rock Smash]
+gender: [m, f]
+rarity: 1.0
+---
+species: Empoleon
+displayname: "Empoleon-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Impish
+ivs: 31
+evs: {hp: 44, atk: 152, def: 136, spA: 100, spD: 76, spe: 0}
+moves:
+    - [Metal Claw]
+    - [Aqua Jet]
+    - [Bubble]
+    - [Growl]
+gender: [m, f]
+rarity: 1.0
+---
