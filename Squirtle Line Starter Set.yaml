@@ -1,0 +1,50 @@
+species: Squirtle
+displayname: "Squirtle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 106, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+rarity: 1.0
+---
+species: Wartortle
+displayname: "Wartortle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Rain Dish]
+nature: Brave
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 106, spe: 0}
+moves:
+    - [Aqua Tail]
+    - [Iron Tail]
+    - [Protect]
+    - [Rain Dance]
+gender: [m, f]
+rarity: 1.0
+---
+species: Blastoise
+displayname: "Blastoise-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Mild
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 106, spe: 0}
+moves:
+    - [Water Gun]
+    - [Bite]
+    - [Whirlpool]
+    - [Tail Whip]
+gender: [m, f]
+rarity: 1.0
